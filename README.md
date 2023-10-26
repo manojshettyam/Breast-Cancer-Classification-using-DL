@@ -1,4 +1,4 @@
-# Breast-Cancer-Classification-using-DL
+# Breast-Cancer-Classification-using-DL.
 
 Breast cancer is a major cause of death among women worldwide. Early detection of breast cancer can increase the chances of survival. In this project, I have built a predictive system to classify whether a breast tumor is malignant or benign using deep learning. 
 I have used a simple neural network model for the classification task. The model consists of an input layer, a hidden layer with a ReLU activation function, and an output layer with a sigmoid activation function. I have used binary cross-entropy as the loss function and optimized the model using stochastic gradient descent. 
